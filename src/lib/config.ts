@@ -1,0 +1,1 @@
+export const API_BASE = 'https://postapi-j586.onrender.com/auth'
